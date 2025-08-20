@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=zcgame,Windows=zcgame,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=zcgame,Windows=zcgame,_Debug=zcgame,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
