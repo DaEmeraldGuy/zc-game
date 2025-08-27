@@ -1,0 +1,1 @@
+var gamefiles = ['zcgame.ags', 'acsetup.cfg'];
